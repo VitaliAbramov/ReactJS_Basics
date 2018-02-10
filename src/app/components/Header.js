@@ -7,7 +7,7 @@ export class Header extends React.Component {
 				<div className="container">
 					<div className="navbar-header">
 						<ul className="nav navbar-nav">
-							<li><a href="#">Home</a></li>
+							<li><a href="#Home">Home</a></li>
 						</ul>
 					</div>
 				</div>
